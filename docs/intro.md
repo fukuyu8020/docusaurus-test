@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-|      |  TH  |
+|   1  |   2  |
 | ---- | ---- |
-|      >>|  TD  |
-|  **TD**  |  ![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)  |
+| あいう |      |
+|  **あいう**  |  ![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)  |
 
 
 # Tutorial Intro
